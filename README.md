@@ -29,4 +29,4 @@ The project follows a standard structure for React applications. Some of the mai
 - React Dropzone: For implementing the image upload functionality.
 
 
-Developed with ❤️ by Felipe Alexander Correa Rodríguez. Thank you for visiting FECODITOR!
+### Developed with ❤️ by Felipe Alexander Correa Rodríguez. Thank you for visiting FECODITOR!
