@@ -30,9 +30,3 @@ The project follows a standard structure for React applications. Some of the mai
 
 
 Developed with ❤️ by Felipe Alexander Correa Rodríguez. Thank you for visiting FECODITOR!
-
-## 📜 Installation Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Efocor/FECODITOR.git
