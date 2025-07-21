@@ -1,6 +1,6 @@
 # FECODITOR
 
-FECODITOR is a simple and efficient image editor built with React. This application is designed to allow users to upload images, apply various filters, and make basic editing adjustments quickly and easily. It's the perfect tool for those who need fast and effective modifications to their images without complications.
+FECODITOR is a simple and efficient image editor built with React. This application is designed to allow users to upload images, apply various filters, and make basic editing adjustments quickly and easily. It's the perfect tool for those who need fast and effective modifications to their images without complications, free to use.
 
 ## 🌟 Features
 
